@@ -1,8 +1,7 @@
 # Data science projeto
 
-# Data science projeto
 
-<p>Este projeto é um estudo sobre data science</p>
+<p>Este projeto é um estudo sobre data science, e uma analise mais profunda em dados abertos da PRF em gerak</p>
 
 <p>requerimentos:</p>
 

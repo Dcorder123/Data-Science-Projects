@@ -19,10 +19,7 @@
 ### 👨🏻‍💻 Technologies
 
 <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="45"> &nbsp;
-<img src="https://cdn.iconscout.com/icon/free/png-256/numpy-1-226053.png" width="45"> &nbsp;
-<img src="https://cdn.iconscout.com/icon/free/png-256/pandas-226594.png" width="45"> &nbsp;
-<img src="https://cdn.iconscout.com/icon/free/png-256/matplotlib-3-1175240.png" width="45"> &nbsp;
-<img src="https://cdn.iconscout.com/icon/free/png-256/dash-3-1175109.png" width="45"> &nbsp;
+<img src="https://w7.pngwing.com/pngs/134/662/png-transparent-numpy-hd-logo-thumbnail.png" width="45"> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/44px-Jupyter_logo.svg.png" width="45"> &nbsp; 
 <br>
 

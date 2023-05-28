@@ -1,4 +1,6 @@
-<div/align="center">
+
+<div align="center">
+
 <h1> Data science projeto </h1>
 <h4>Repositorio para estudos de data science da cadeira de estatistica</h4>
 <p> Estudos de data science, e uma analise mais profunda em dados abertos da PRF em geral</p>
@@ -12,7 +14,7 @@
 </p>
 <br>
 
-<img  alt="Wallpaper"  src="https://user-images.githubusercontent.com/101361658/241572183-1f917cf4-7c37-42d2-8647-d1498d613435.jpg" width="50%">
+<img  alt="Wallpaper"  src="https://uploads-ssl.webflow.com/606907b169dcd481e8fd42c4/628fcc28ae967c5ccc32de0c_data-science.jpg" width="50%">
 
 <br> 
 
